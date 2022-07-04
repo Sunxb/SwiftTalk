@@ -3,5 +3,6 @@
     <pages>
         <page name='SplittingArrays'/>
         <page name='ValueType'/>
+        <page name='MutatingUntypedDictionaries'/>
     </pages>
 </playground>
