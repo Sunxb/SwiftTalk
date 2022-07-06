@@ -4,5 +4,6 @@
         <page name='SplittingArrays'/>
         <page name='ValueType'/>
         <page name='MutatingUntypedDictionaries'/>
+        <page name='Concurrent Map'/>
     </pages>
 </playground>
