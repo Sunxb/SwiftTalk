@@ -4,6 +4,6 @@
         <page name='SplittingArrays'/>
         <page name='ValueType'/>
         <page name='MutatingUntypedDictionaries'/>
-        <page name='Concurrent Map'/>
+        <page name='Type-Safe File Paths with Phantom Types'/>
     </pages>
 </playground>
