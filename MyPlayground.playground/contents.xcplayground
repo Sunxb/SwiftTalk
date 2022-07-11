@@ -5,5 +5,8 @@
         <page name='ValueType'/>
         <page name='MutatingUntypedDictionaries'/>
         <page name='Type-Safe File Paths with Phantom Types'/>
+        <page name='Concurrent Map'/>
+        <page name='Reflection with Mirror and Decodable'/>
+        <page name='String Interpolation in Swift 5'/>
     </pages>
 </playground>
